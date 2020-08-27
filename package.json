@@ -1,6 +1,9 @@
 {
   "name": "vuetify",
-  "version": "1.0.13",
+  "version": "1.0.13-edval",
+  "publishConfig": {
+    "registry": "https://npm.tescloud.com"
+  },
   "author": {
     "name": "John Leider",
     "email": "john@vuetifyjs.com"
